@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,WAAY,CACZ,iBAAkB,CAClB,UAAY,CACZ,qBAAuB,CACvB,kBAAmB","file":"main.0311b4c8.chunk.css","sourcesContent":[".user {\n  display: block;\n  width: 200px;\n  text-align: center;\n  color: white;\n  background-color: black;\n  border-radius: 10px;\n}\n"]}
